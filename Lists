@@ -7,10 +7,15 @@ htop
 speedtest-cli	
 tmux		
 wget			
-python@3.8			
+python@3.8 (?)			
 tree		
 
 #CASKS
+alfred (?)
+spectacle
+hyperswitch
+oversight
+brave-browser
 eloston-chromium 
 google-chrome
 visual-studio-code
