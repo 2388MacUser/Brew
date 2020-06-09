@@ -1,25 +1,24 @@
 #FORMULE
 bash		
-git			
-tldr			
+git					
 gotop		
 htop
+neofetch
 speedtest-cli	
-tmux		
-wget			
-python@3.8 (?)			
-tree		
+tmux	
+tldr
+tree
+vim
+wget
+youtube-dl
 
 #CASKS
-alfred (?)
-spectacle
-hyperswitch
-oversight
-brave-browser
+
 eloston-chromium 
 google-chrome
+hyperswitch
+oversight
+spectacle
+spotify
 visual-studio-code
-tweetbot
-font-terminus
-font-consolas-for-powerline  
-font-ubuntu 
+vlc
