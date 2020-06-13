@@ -2,6 +2,7 @@
 bash		
 git					
 gotop		
+jupyter notebook
 htop
 neofetch
 speedtest-cli	
@@ -11,6 +12,7 @@ tree
 vim
 wget
 youtube-dl
+
 
 #CASKS
 
